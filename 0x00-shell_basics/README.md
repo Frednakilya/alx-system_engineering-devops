@@ -9,4 +9,5 @@ Create a script that creates a directory
 moving file from one directory to another directory
 deleting the file betty
 deleting directory
-Write a script that changes the working directory to the previous one 
+Write a script that changes the working directory to the previous one
+Write a script that lists all files 
